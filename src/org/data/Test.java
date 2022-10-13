@@ -28,6 +28,8 @@ public class Test {
 		}
 		System.out.println("hi how are you");
 		System.out.println("fine");
+		System.out.println("happy journey");
+
       }
 }
 
