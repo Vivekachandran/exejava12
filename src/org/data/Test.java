@@ -26,6 +26,7 @@ public class Test {
 		catch(Exception e) {
 			System.out.println("6");
 		}
+		System.out.println("hi how are you");
       }
 }
 
